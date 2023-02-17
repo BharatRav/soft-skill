@@ -38,3 +38,6 @@ good soft skills will help you stand out in a crowd of mediocrity(equal type peo
 </br>
 and many more
 
+# Anger Management
+Anger Management is a psycho-therapeutic program for anger prevention and control.
+
