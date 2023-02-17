@@ -41,3 +41,6 @@ and many more
 # Anger Management
 Anger Management is a psycho-therapeutic program for anger prevention and control.
 
+# Anger
+Anger is a strong feeling og aggrevation or irritation towards or about something.
+
