@@ -49,4 +49,5 @@ Anger is a strong feeling og aggrevation or irritation towards or about somethin
 3 Red/flushed face </br>
 4 shaking </br>
 5 Feeling hot in the face or neck </br>
+<h1>Anger is one letter shorter of danger</h1>
 
