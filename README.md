@@ -49,7 +49,7 @@ Anger is a strong feeling og aggrevation or irritation towards or about somethin
 3 Red/flushed face </br>
 4 shaking </br>
 5 Feeling hot in the face or neck </br>
-(<h1>Anger is one letter shorter of danger</h1>)
+<h1>(Quote)Anger is one letter shorter of danger</h1>
 
 # Controlling Anger
 1 Think before you speak. </br>
@@ -62,3 +62,6 @@ Anger is a strong feeling og aggrevation or irritation towards or about somethin
 2 Improvements in communication skills. </br>
 3 Focus on problem -solving. </br>
 4 Avoidance of problematic situations. </br>
+
+
+<h1>(Quote)Holding onto ANGER is like drinking poison and expecting the other person to die. --BUDDHA--</h1>
