@@ -44,9 +44,9 @@ Anger Management is a psycho-therapeutic program for anger prevention and contro
 # Anger
 Anger is a strong feeling og aggrevation or irritation towards or about something.
 <h2>Symptoms of anger</h2>
-1 Clenched jaw or fists
-2 Increase in heart rate
-3 Red/flushed face
-4 shaking
-5 Feeling hot in the face or neck
+1 Clenched jaw or fists </br>
+2 Increase in heart rate </br>
+3 Red/flushed face </br>
+4 shaking </br>
+5 Feeling hot in the face or neck </br>
 
