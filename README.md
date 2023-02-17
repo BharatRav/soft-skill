@@ -51,3 +51,9 @@ Anger is a strong feeling og aggrevation or irritation towards or about somethin
 5 Feeling hot in the face or neck </br>
 <h1>Anger is one letter shorter of danger</h1>
 
+# Controlling Anger
+1 Think before you speak. </br>
+2 Once you're calm, express your anger. </br>
+3 Get some exercise. </br>
+4 Don't hold a grudge.(sikayat) </br>
+
