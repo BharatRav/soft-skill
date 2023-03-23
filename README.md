@@ -66,6 +66,3 @@ Anger is a strong feeling og aggrevation or irritation towards or about somethin
 
 <h1>(Quote)Holding onto ANGER is like drinking poison and expecting the other person to die. --BUDDHA--</h1>
 //next will continue
-
-
-
