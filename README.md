@@ -66,3 +66,30 @@ Anger is a strong feeling og aggrevation or irritation towards or about somethin
 
 <h1>(Quote)Holding onto ANGER is like drinking poison and expecting the other person to die. --BUDDHA--</h1>
 //next will continue
+
+
+
+const highlightButton = document.getElementById("highlight-button");
+const clearButton = document.getElementById("clear-button");
+const inputDate = document.getElementById("input-date");
+const inputColor = document.getElementById("input-color");
+const calendarDays = document.querySelectorAll(".calendar-day");
+
+highlightButton.addEventListener("click", () => {
+  const date = parseInt(inputDate.value);
+  const color = inputColor.value;
+
+  if (date > 0 && date <= 31) {
+    calendarDays[date + 6].style.backgroundColor = color;
+    inputDate.value = "";
+    inputColor.value = "";
+  }
+});
+
+clearButton.addEventListener("click", () => {
+  calendarDays.forEach((day) => {
+    day.style.backgroundColor = "";
+  });
+});
+Jss
+
